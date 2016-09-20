@@ -13,7 +13,7 @@ directory and files of your `gitmodules`, if any.
 ## Usage
 
 ```sh
-git submodule add https://github.com/caarlos0/shell-ci-build.git build
+git submodule add https://github.com/utkdigitalinitiatives/shell-ci-build.git build
 cp build/travis.yml.example .travis.yml
 ```
 
